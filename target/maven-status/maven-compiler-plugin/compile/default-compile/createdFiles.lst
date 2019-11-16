@@ -1,0 +1,11 @@
+com/form/service/FormRegistrationService.class
+com/formcontroller/MyEmailService.class
+com/formcontroller/OTPController.class
+com/formcontroller/EmailTemplate.class
+com/form/config/WebConfig.class
+com/form/config/AppConfig.class
+com/form/model/FormRegistration.class
+com/formcontroller/RestController.class
+com/form/config/MyWebAppInitializer.class
+com/form/service/OtpService.class
+com/form/service/OtpService$1.class
