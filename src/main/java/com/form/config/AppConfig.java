@@ -18,7 +18,7 @@ import static org.hibernate.cfg.Environment.*;
 @PropertySource("classpath:db.properties")
 @EnableTransactionManagement
 @ComponentScans(value = { @ComponentScan("com.fixer.dao"),
-      @ComponentScan("com.fixer.daoimpl") })
+      @ComponentScan("com.fixer.dto") })
 public class AppConfig {
 
    @Autowired
